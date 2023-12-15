@@ -5,6 +5,8 @@ import App from './App.jsx'
 import {PI, GTM_BRASIL} from './teste.js'
 import nomes from './nomes.js'
 
+import './global.css'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
